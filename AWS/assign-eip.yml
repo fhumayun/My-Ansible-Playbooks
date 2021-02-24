@@ -1,5 +1,5 @@
 #
-#About: This will assign eip
+#About: This will assign an elastic ip
 #
 ---
 - hosts: localhost
